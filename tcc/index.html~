@@ -1,0 +1,390 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1024" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>TESTING AND CONSULTANCY CELL</title>
+    
+    <meta name="description" content="impress.js is a presentation tool based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com." />
+    <meta name="author" content="Bartek Szopka" />
+
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+
+    <link href="css/impress-demo.css" rel="stylesheet" />
+    
+    <link rel="shortcut icon" href="favicon.png" />
+    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+</head>
+
+<body class="impress-not-supported">
+
+<div id="impress">
+   <div id="title" class="step" data-x="0" data-y="0" data-scale="200">
+        <center><h2 id="headings">TESTING & CONSULTANCY CELL</h2></center>
+        <center><span id="texts">Providing Technical Service Since 1979</span></center>
+        <center><h3 id="head">Guru Nanak Dev Engineering College</h3></center>
+        <center><span id="text">An Autonomous College Under Section [2(f) and 12(B)] of UGC Act 1956</span></center>
+        <center><span id="texted">NBA Accredited, Punjab Govt. Aided Status, ISO : 9001:2008 Certified</span></center>
+        <center><h3 id="headed">GILL ROAD, GILL PARK, LUDHIANA - 141006</h3></center>
+        <center><h3 id="texted">Lat 30 51' 29",  Lon 75 51' 39" E</h3></center>
+
+    </div>
+
+    <div id="bored" class="step slide" data-x="-1000" data-y="-1500">
+        <h4><b>TESTING & CONSULTANCY CELL</b></h4>
+<br><br>
+    <p>Testing & Consultancy Cell was established in the year 1979 with a basic aim to provide quality service for technical problems at reasonable and affordable rates as a service to society in general and Engineering fraternity in particular. Ours is a pioneer institute providing Consultancy Services in the state of Punjab, Haryana, Himachal, J&K and Rajashtan.</p> 
+    </div>
+
+    <div id="tabg" class="step slide" data-x="0" data-y="-1500">
+        <h4><b>Departments</b></h4>
+<br><br>
+    <ul>
+<li>Civil Enggineering Department</li>
+<li>Mechanical Engineering Department</li>
+<li>Electrical Engineering Department</li>
+<li>Computer Science Engineering</li>
+<li>Electronics Engineering Department</li>
+<li>MBA</li>
+<li>MCA</li>
+</ul>
+    </div>
+
+    <div id="tab2bg" class="step slide" data-x="0" data-y="-3000">
+        <h4><b>Labs Department Wise (Civil Department)</b></h4>
+<br><br>
+    <ul>
+<li>GEO-TECHNICALS LAB</li>
+<li>TRANSPORTATION ENGINEERING LAB</li>
+<li>MATERIAL TESTING LAB</li>
+<li>SURVEY LAB</li>
+<li>ENVIRONMENTAL LAB</li>
+<li>ENGINEERING DESIGN</li>
+<li>OTHER SERVICES</li>
+</ul>
+
+    </div>
+
+    <div id="tab4bg" class="step slide" data-x="1000" data-y="-3000">
+        <h4><b>Labs Department Wise (Electrical Department)</b></h4>
+<br><br>
+    <ul>
+<li>ELECCTRICAL MACHINES</li>
+<li>HIGH VOLTAGE</li>
+<li>POWER ELECTRONICS AND MICROPROCESSORS</li>
+<li>ELECTRICAL MEASUREMENT</li>
+<li>POWER SYSTEMS AND CONTROL</li>
+<li>BASIC ELECTRICAL ENGINEERING</li>
+<li>COMPUTER</li>
+<li>APPLIED ELECTRONICS</li>
+</ul>
+
+    </div>
+
+    <div id="tab5bg" class="step slide" data-x="2000" data-y="-3000">
+        <h4><b>Labs Department Wise (ELECTRONICS Department)</b></h4>
+<br><br>
+    <ul>
+<li>COMMUNICATION AND T.V</li>
+<li>MICRO-WAVE</li>
+<li>DIGITAL ELECTRONICS AND PROJECTS</li>
+<li>ELECTRONICS DESIGN AND AUTOMOBILE LAB</li>
+<li>MICROPROCESSOR AND HARDWARE</li>
+<li>FIBRE OPTICS & MULTIMEDIA</li>
+</ul>
+
+    </div>
+
+    <div id="tab6bg" class="step slide" data-x="3000" data-y="-3000">
+        <h4><b>Labs Department Wise (MECHANICAL ENGINEERING)</b></h4>
+<br><br>
+    <ul>
+<li>HEAT ENGINES & THERMAL SCIENCE</li>
+<li>METROLOGY & MECHANICAL MEASUREMENTS</li>
+<li>HEAT TRANSFER</li>
+<li>HYDRAULIC MACHINES</li>
+<li>MACHINE TOOLS</li>
+<li>METAL FORMING</li>
+<li>CAM AND AUTOMATION</li>
+<li>DYNAMICS OF MACHINES</li>
+<li>METALLURGY AND HEAT TREATMENT</li>
+<li>COMPUTER AIDED DESGINS</li>
+
+</ul>
+
+    </div>
+
+    <div id="tab7bg" class="step slide" data-x="4000" data-y="-3000">
+        <h4><b>Labs Department Wise (COMPUTER SCIENCE)</b></h4>
+<br><br>
+    <ul>
+<li>OPERATING SYSTEM LAB-1</li>
+<li>OPERATING SYSTEM LAB-2</li>
+<li>PROJECT LAB-1</li>
+<li>PROJECT LAB-2</li>
+<li>HARDWARE LAB</li>
+<li>SOFTWARE LAB</li>
+<li>SOFTWARE LAB-2</li>
+<li>WEB DEVELOPMENT LAB </li>
+<li>DBMS LAB-2</li>
+<li>COMPUTER NETWORK LAB</li>
+<li>RESEARCH LAB</li>
+</ul>
+
+    </div>
+
+    <div id="tab8bg" class="step slide" data-x="5000" data-y="-3000">
+        <h4><b>Labs Department Wise (CENTRAL WORKSHOP)</b></h4>
+<br><br>
+    <ul>
+<li>MACHINE SHOP</li>
+<li>FITTING SHOP</li>
+<li>ELECTRIC SHOP</li>
+<li>CARPENTRY SHOP</li>
+<li>FOUNDRY SHOP</li>
+<li>BLACKSMITHY SHOP</li>
+<li>WELDING SHOP</li>
+</ul>
+
+    </div>
+
+
+    <div id="tabbg" class="step slide" data-x="2000" data-y="-1500">
+        <h4><b>Our Services</b></h4>
+<br><br>
+    <ul>
+<li>Surevying</li>
+<li>Geotech</li>
+<li>Design</li>
+<li>Training</li>
+<li>Environment</li>
+<li>Other</li>
+</ul>
+
+    </div>
+
+ 
+    <div id="its" class="step" data-x="850" data-y="3000" data-rotate="90" data-scale="3">
+        <p><strong>Surveying</strong></P>
+    </div>
+    <div id="survey" class="step slide" data-x="1850" data-y="3000">
+        <h4><b>Survey</b></h4>
+<br><br>
+
+    <ul>
+<li>Preparation of Contour Map</li>
+<li>Alignment of different structures</li>
+<li>Survey Plan and Levelling</li>
+<li>Preparation of L-section and X-section</li>
+<li>Preparation of digital maps</li>
+</ul>
+
+    </div>
+
+    <div id="big" class="step" data-x="3500" data-y="2100" data-rotate="180" data-scale="6">
+        <p><strong>GeoTech</strong></p>
+    </div>
+    <div id="geotech" class="step slide" data-x="4500" data-y="3000">
+        <h4><b>Geo Tech</b></h4>
+<br><br>
+
+    <ul>
+<li>Bearing Capacity of Soil</li>
+<li>Pile Load Test</li>
+<li>Chemical Analysis of Soil</li>
+<li>Compaction and Consolidation Test</li>
+<li>Field Density Test</li>
+<li>Triaxial Shear Test</li>
+<li>Partical Size Analysis Test</li>
+</ul>
+
+    </div>
+
+    <div id="tiny" class="step" data-x="2825" data-y="2325" data-z="-3000" data-rotate="300" data-scale="1">
+        <p><strong>Designing</strong></p>
+    </div>
+    <div id="design" class="step slide" data-x="6000" data-y="3000">
+        <h4><b>Designing</b></h4>
+<br><br>
+
+    <ul>
+<li>Structural Design of Industrial, Institutional, Residential buildings</li>
+<li>Structural Design of OHSR & Treatment Plant</li>
+<li>Structutral Design of Steel Structures</li>
+<li>Structural Design of Masonry Strucutres</li>
+<li>Concrete Mixed Design</li>
+<li>Pavement Design</li>
+</ul>
+
+    </div>
+
+    <div id="ing" class="step" data-x="3500" data-y="-850" data-rotate="270" data-scale="6">
+        <p><strong>Training</strong></p>
+    </div>
+
+    <div id="training" class="step slide" data-x="7000" data-y="3000">
+        <h4><b>Training</b></h4>
+<br><br>
+
+    <ul>
+<li>Six Months Training</li>
+<li>Six Weeks Training</li>
+</ul>
+
+    </div>
+
+
+    <div id="imagination" class="step" data-x="6700" data-y="-300" data-scale="6">
+        <p><b class="imagination">Environment </b></p>
+    </div>
+    <div id="eno" class="step slide" data-x="8000" data-y="3000">
+        <h4><b>Environment</b></h4>
+<br><br>
+    <ul>
+<li>Design of Air Pollution Control Devicedds</li>
+<li>Analysis of water / waste water</li>
+<li>Treatability Studies for Industrial Wastes</li>
+<li>Design and Commissioning of Effluent Treatment Plants</li>
+<li>Project Feasibility Reports for ETPs</li>
+<li>Design of Air Pollution Control Devices</li>
+<li>Adequacy Reports for ETPs & APCDs</li>
+<li>Impact Assessment</li>
+<li>Environmental Auditing</li>
+
+</ul>
+
+    </div>
+
+
+
+    <div id="source" class="step" data-x="6300" data-y="2000" data-rotate="20" data-scale="4">
+        <p><strong>Other Services</strong></p>
+    </div>
+    <div id="other" class="step slide" data-x="8000" data-y="3000">
+        <h4><b>Other Services</b></h4>
+<br><br>
+    <ul>
+<li>Estimation and Costing of Project</li>
+<li>Supervision and Quality Control</li>
+<li>Calibration of different Equipments</li>
+</ul>
+
+    </div>
+
+
+    <div id="its-in-3d" class="step" data-x="6200" data-y="4300" data-z="-100" data-rotate-x="-40" data-rotate-y="10" data-scale="2">
+        <p><span class="have">Why</span> <span class="you">us</span> <span class="noticed">?</p>
+    </div>
+
+    <div id="const" class="step" data-x="7200" data-y="5300" data-z="-100" data-rotate-x="-40" data-rotate-y="10" data-scale="2">
+        <p><strong>Our have Excellent and Experienced Consultants</strong></p>
+    </div>
+
+    <div id="consts" class="step slide" data-x="9000" data-y="3000">
+
+<h4><b>Geo Technical Engg.</b><h4>
+<br><br>
+<ul>
+<li>Dr. J.N. Jha, Ph.D</li>
+<li>Er. Kulbir Singh Gill, Ph.D</li>
+<li>Prof. Harjinder Singh, M.E</li>
+<li>Dr. B.S. Walia, Ph.D</li>
+<li>Prof. Gurdeepak Singh, M.Tech</li>
+</ul>
+    </div>
+    <div id="constss" class="step slide" data-x="10000" data-y="3000">
+
+<h4><b>Structure</b></h4>
+<br><br>
+<ul>
+<li>Dr. Harpal Singh, Ph.D</li>
+<li>Dr. Hardeep Singh Rai, Ph.D</li>
+<li>Dr. Harvinder Singh, Ph.D</li>
+<li>Dr. Jagbir Singh, Ph.D</li>
+<li>Prof. Kanwarjit Singh Bedi, M.Tech</li>
+<li>Prof. Parshant Garg, M.Tech</li>
+<li>Prof. Harpreet Kaur, M.Tech</li>
+<li>Prof. Inderpreet Kaur, M.Tech</li>
+</ul>
+</div>
+    <div id="constsss" class="step slide" data-x="11000" data-y="3000">
+
+<h4><b>Highway</b></h4>
+<br>
+<ul>
+<li>Dr. Kulbir Singh Gill, Ph.D</li>
+</ul>
+<h4><b>Material Testing</b></h4>
+<br>
+<ul>
+<li>Dr. Jagbir Singh, Ph.D</li>
+<li>Prof. Kanwarjit Singh Bedi, M.Tech</li>
+</ul>
+<h4><b>Survey</b></h4>
+<br>
+<ul>
+<li>Dr. B.S. Walia, Ph.D</li>
+</ul>
+<h4><b>Chemical Testing</b></h4>
+<br>
+<ul>
+<li>Dr. R.P. Singh, Ph.D</li>
+</ul>
+<h4><b>Environmental Engg.</b></h4>
+<br>
+<ul>
+<li>Prof. Puneet Pal Singh, M.E</li>
+</ul>
+</div>
+    <div id="tech" class="step" data-x="12000" data-y="5300" data-z="-100" data-rotate-x="-40" data-rotate-y="10" data-scale="2">
+        <p><strong>Our Technologies</strong></p>
+    </div>
+
+    <div id="project" class="step" data-x="14000" data-y="5300" data-z="-100" data-rotate-x="-40" data-rotate-y="10" data-scale="2">
+        <p><strong>Our Excellent Projects</strong></p>
+    </div>
+
+
+    <div id="service" class="step" data-x="16000" data-y="5300" data-z="-100" data-rotate-x="-40" data-rotate-y="10" data-scale="2">
+        <p><strong>Our Excellent Service</strong></p>
+    </div>
+
+    <div id="client" class="step" data-x="18000" data-y="5300" data-z="-100" data-rotate-x="-40" data-rotate-y="10" data-scale="2">
+        <p><strong>Our Clients</strong></p>
+    </div>
+
+    <div id="contact" class="step" data-x="22000" data-y="5300" data-z="-100" data-rotate-x="-40" data-rotate-y="10" data-scale="2">
+        <p><strong>Contact Us</strong></p>
+    </div>
+   <div id="titl" class="step" data-x="23000" data-y="5300" data-scale="2">
+        <center><h2 id="headings">TESTING & CONSULTANCY CELL</h2></center>
+        <center><span id="texts">Providing Technical Service Since 1979</span></center>
+        <center><h3 id="head">Guru Nanak Dev Engineering College</h3></center>
+        <center><span id="text">TOP RANKED ENGINEERING COLLEGE OF PUNJAB</span></center>
+        <center><span id="texted">PH: 0161-2491193, 5064509 </span><br><span id="text"> FAX:0161-5064742</span></center>
+        <center><h3 id="texted">website:- http:/tcc.gndec.ac.in</h3></center>
+        <center><h3 id="texted">E-mail:- tcc@gndec.ac.in</h3></center>
+
+    </div>
+
+
+    <div id="overview" class="step" data-x="3000" data-y="1500" data-scale="10">
+    </div>
+
+</div>
+<div class="hint">
+    <p>TESTING & CONSULTANCY CELL</p>
+</div>
+<script>
+if ("ontouchstart" in document.documentElement) { 
+    document.querySelector(".hint").innerHTML = "<p>Tap on the left or right to navigate</p>";
+}
+</script>
+<script src="js/impress.js"></script>
+<script>impress().init();</script>
+
+</body>
+</html>
+
